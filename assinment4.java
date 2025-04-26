@@ -20,7 +20,7 @@ public class SmallestMissingPositive {
             }
         }
 
-        // If all positions are correct, the missing number is n + 1gi
+        // If all positions are correct, the missing number is n + 1
         return n + 1;
     }
 
