@@ -21,7 +21,10 @@ public class SmallestMissingPositive {
         }
 
         // If all positions are correct, the missing number is n + 1
+<<<<<<< HEAD
         
+=======
+>>>>>>> fc512011bee27bdb97031f9fd32a0545e0f5ecdb
         return n + 1;
     }
 
