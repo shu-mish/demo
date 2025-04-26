@@ -68,7 +68,7 @@ public class Main {
 
 
 //output 
-*/Teacher Info:
+//Teacher Info:
 //Name: Mr. Smith
 //Age: 40
 //Subject: Physics
